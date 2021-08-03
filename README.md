@@ -5,8 +5,12 @@ Upload the Jupyter file via Google Collab or click on the following link: https:
 
 The link to the Edge Impulse: https://studio.edgeimpulse.com/public/43415/latest
 
+
+
+
 Credits
-This project includes sample codes from the following projects:
+
+This project uses sample code from the following projects:
 
 [1]	Github,  “TensorFlow Lite for Microcontrollers”. Accessed on: July 20, 2020. [Online]. Available: https://github.com/tensorflow/tflite-micro/tree/main/tensorflow/lite/micro/examples/hello_world
 
