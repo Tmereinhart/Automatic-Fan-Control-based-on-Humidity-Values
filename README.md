@@ -1,7 +1,13 @@
 # Automatic-Fan-Control-based-on-Humidity-Values
-ML Control of Bathroom exhaust fan taking humidity values
+ML Control of Bathroom exhaust fan taking humidity values and outputting predicted Fan State (1/0, ON or OFF)
 
 Upload the Jupyter file via Google Collab or click on the following link: https://drive.google.com/file/d/1ozxZJ222mv-oaq5fUqMSDMBaXcmbjPAI/view?usp=sharing
+
+This file imports the trainig data and will export a CPP file that can be used as a header for an Arduino Sketch.
+
+An Arduino ino file is included that uses a simple engineered feature extraction model, which does not use TensorFlow Light
+
+The scitree file displays the projects descision tree code
 
 The link to the Edge Impulse: https://studio.edgeimpulse.com/public/43415/latest
 
