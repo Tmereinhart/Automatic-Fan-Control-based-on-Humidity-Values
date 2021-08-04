@@ -7,7 +7,7 @@ This file imports the trainig data and will export a CPP file that can be used a
 
 An Arduino ino file is included that uses a simple engineered feature extraction model, which does not use TensorFlow Light
 
-The scitree file displays the projects descision tree code
+The scitree file displays the projects decision tree code
 
 The link to the Edge Impulse: https://studio.edgeimpulse.com/public/43415/latest
 
